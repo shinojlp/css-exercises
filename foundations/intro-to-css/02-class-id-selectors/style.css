@@ -1,0 +1,19 @@
+.l1 {
+  background-color: #FFC0CB;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size-change {
+    font-size: 24px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 18px;
+    font-weight: bold;
+}
