@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.cl1,
+.cl2,
+.cl3 {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cl2 {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
