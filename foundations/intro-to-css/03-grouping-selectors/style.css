@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.c1,
+.c2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.c1 {
+    background-color: black;
+    color: white;
+}
+
+.c2 {
+    background-color: yellow;
+    color: black;
+}
